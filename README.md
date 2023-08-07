@@ -1,8 +1,8 @@
 # Riemann-Integral
 Interaktive Darstellung und Berechnung des Riemann-Integrals mit matplotlib, numpy und scipy
 
+Installation der notwendigen Module über:
+
 ````
-
-Look! You can see my backticks.
-
+pip install -r requirements.txt
 ````

@@ -6,3 +6,6 @@ Installation der notwendigen Module über:
 ````
 pip install -r requirements.txt
 ````
+
+
+[Talha Filikci](mailto:talhafilikci@gmail.com?subject=[Github])
